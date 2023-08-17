@@ -1,2 +1,2 @@
 # Trusted-and-safe-autonomous-driving-based-on-deep-reinforcement-learning-
-Safe and trustworthy autonomous driving is achieved by coding safe driving rules into a deep reinforcement learning reward function.
+Safe and trustworthy autonomous driving has always been our pursuit, so I'm going to open this work, which has already made some progress and will be open-sourced subsequently...
