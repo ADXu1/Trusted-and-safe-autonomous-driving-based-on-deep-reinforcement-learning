@@ -1,0 +1,13 @@
+sb3_contrib>=2.1.0
+gym==0.26.2
+huggingface_sb3>=2.3
+tqdm
+rich
+optuna>=3.0
+pyyaml>=5.1
+pytablewriter~=0.64
+
+[plots]
+seaborn
+rliable>=1.0.5
+scipy~=1.7.3

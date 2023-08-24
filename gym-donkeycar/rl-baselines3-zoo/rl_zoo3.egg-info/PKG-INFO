@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: rl-zoo3
+Version: 2.1.0
+Summary: A Training Framework for Stable Baselines3 Reinforcement Learning Agents
+Home-page: https://github.com/DLR-RM/rl-baselines3-zoo
+Author: Antonin Raffin
+Author-email: antonin.raffin@dlr.de
+License: MIT
+Project-URL: Code, https://github.com/DLR-RM/rl-baselines3-zoo
+Project-URL: Documentation, https://rl-baselines3-zoo.readthedocs.io/en/master/
+Project-URL: Changelog, https://github.com/DLR-RM/rl-baselines3-zoo/blob/master/CHANGELOG.md
+Project-URL: Stable-Baselines3, https://github.com/DLR-RM/stable-baselines3
+Project-URL: RL-Zoo, https://github.com/DLR-RM/rl-baselines3-zoo
+Project-URL: SBX, https://github.com/araffin/sbx
+Keywords: reinforcement-learning-algorithms reinforcement-learning machine-learning gym gymnasium openai stable baselines sb3 toolbox python data-science
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: plots
+License-File: LICENSE
+
+
+# RL Baselines3 Zoo: A Training Framework for Stable Baselines3 Reinforcement Learning Agents
+
+See https://github.com/DLR-RM/rl-baselines3-zoo
